@@ -104,7 +104,7 @@ export default function Navbar() {
             ))}
             <div className="flex space-x-4 pt-4 border-t border-gray-800">
               <a
-                href="https://github.com"
+                href="https://github.com/wassim-dV"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
@@ -112,7 +112,7 @@ export default function Navbar() {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/slimani-mohammed-wassim-5723112b8/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
@@ -125,7 +125,7 @@ export default function Navbar() {
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white"
               >
-                <Twitter size={20} />
+                <X size={20} />
               </a>
             </div>
           </nav>

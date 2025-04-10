@@ -23,7 +23,7 @@ export default function Projects() {
       title: 'Travel Booking App',
       description:
         'A modern travel booking application with destination search, booking management, and user authentication.',
-      image: '/13.JPG',
+      image: '/Travel.JPG',
       tags: ['React', 'Tailwind CSS'],
       liveUrl: 'https://travel-web-seven-zeta.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/travel-web',
@@ -51,7 +51,7 @@ export default function Projects() {
       title: 'modern-business-landing-page-react-tailwindcss ',
       description:
         'modern-business-landing-page-react-tailwindcss.',
-      image: '/1.JPG',
+      image: '/education (2).JPG',
       tags: ['React', 'Redux', 'Tailwind CSS'],
       liveUrl: 'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/blog-app',
@@ -60,20 +60,30 @@ export default function Projects() {
       title: 'blog Website',
       description:
         'A modern and responsive blog  website ',
-      image: '/21.JPG',
+      image: '/blog.JPG',
       tags: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
       liveUrl: 'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/modern-business-landing-page-react-tailwindcss-main',
     },
-    // {
-    //   title: 'Weather App',
-    //   description:
-    //     'A weather forecasting app using OpenWeather API to display real-time weather updates.',
-    //   image: '/weather.JPG',
-    //   tags: ['React', 'API', 'Tailwind CSS'],
-    //   liveUrl: 'https://weather.vercel.app',
-    //   githubUrl: 'https://github.com/wassim-dV/weather-app',
-    // },
+    {
+      title: 'react-admin-dashboard',
+      description:
+        'A responsive admin dashboard for an e-commerce platform with analytics, inventory management, and order processing.',
+      image: '/ahbord.JPG',
+      tags: ['React', 'Tailwind CSS', 'Vite'],
+      liveUrl: 'https://react-dashboard-lovat-six.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/react-dashboard',
+    },
+
+    {
+      title: 'education-leading-page',
+      description:
+        'A responsive and modern education-leading-page.',
+      image: '/education.JPG',
+      tags: ['React', 'Tailwind CSS'],
+      liveUrl: 'https://stockweb-main.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/stockweb-main',
+    }
     // {
     //   title: 'Task Manager',
     //   description:

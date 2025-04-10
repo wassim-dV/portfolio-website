@@ -28,7 +28,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-4">
               <a
-                href="#"
+                href="https://github.com/wassim-dV"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <svg
@@ -42,7 +42,7 @@ export default function Footer() {
                 </svg>
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/slimani-mohammed-wassim-5723112b8/"
                 className="text-gray-400 hover:text-white transition-colors"
               >
                 <svg
@@ -184,7 +184,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} Essam Mohamed. All rights reserved.
+            © {new Date().getFullYear()}. All rights reserved.
           </p>
 
           <motion.button
