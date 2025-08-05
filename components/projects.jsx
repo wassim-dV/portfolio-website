@@ -49,21 +49,22 @@ export default function Projects() {
     // 👇 مشاريع إضافية
     {
       title: 'modern-business-landing-page-react-tailwindcss ',
-      description:
-        'modern-business-landing-page-react-tailwindcss.',
+      description: 'modern-business-landing-page-react-tailwindcss.',
       image: '/education (2).JPG',
       tags: ['React', 'Redux', 'Tailwind CSS'],
-      liveUrl: 'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
+      liveUrl:
+        'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/blog-app',
     },
     {
       title: 'blog Website',
-      description:
-        'A modern and responsive blog  website ',
+      description: 'A modern and responsive blog  website ',
       image: '/blog.JPG',
       tags: ['Next.js', 'Tailwind CSS', 'Framer Motion'],
-      liveUrl: 'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
-      githubUrl: 'https://github.com/wassim-dV/modern-business-landing-page-react-tailwindcss-main',
+      liveUrl:
+        'https://modern-business-landing-page-react-tailwindcss-main.vercel.app/',
+      githubUrl:
+        'https://github.com/wassim-dV/modern-business-landing-page-react-tailwindcss-main',
     },
     {
       title: 'react-admin-dashboard',
@@ -77,22 +78,93 @@ export default function Projects() {
 
     {
       title: 'education-leading-page',
-      description:
-        'A responsive and modern education-leading-page.',
+      description: 'A responsive and modern education-leading-page.',
       image: '/education.JPG',
       tags: ['React', 'Tailwind CSS'],
       liveUrl: 'https://stockweb-main.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/stockweb-main',
-    }
-    // {
-    //   title: 'Task Manager',
-    //   description:
-    //     'A productivity app for managing daily tasks with drag-and-drop functionality.',
-    //   image: '/task-manager.JPG',
-    //   tags: ['React', 'Drag & Drop', 'Tailwind CSS'],
-    //   liveUrl: 'https://taskmanager.vercel.app',
-    //   githubUrl: 'https://github.com/wassim-dV/task-manager',
-    // },
+    },
+    {
+      title: 'full-stack-ai-voice-interview',
+      description:
+        'Application web full-stack de simulation d’entretiens vocaux IA en temps réel avec génération de questions et interaction vocale.',
+      image: '/interveiw.jpg',
+      tags: [
+        'Next.js',
+        'Tailwind CSS',
+        'ShadCN UI',
+        'Firebase',
+        'Vapi',
+        'Google Gemini',
+        'GPT-4',
+      ],
+      liveUrl: 'https://interview-platform-fv2t-9gvy8ebkz.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/interview_platform',
+    },
+    {
+      title: 'enterprise-ai-ats',
+      description:
+        'Application web full-stack pour l’analyse intelligente de CV et le suivi de candidatures avec scoring ATS et feedback personnalisé.',
+      image: '/ats project.jpg',
+      tags: ['React', 'React Router', 'Tailwind CSS', 'Puter AI', 'Zustand'],
+      liveUrl: 'https://applicant-tracking-system-lj4dz30pg.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/Applicant-Tracking-System',
+    },
+    {
+      title: 'meedmeet-doctors-platform',
+      description:
+        'Plateforme complète de prise de rendez-vous médicaux avec appels vidéo, gestion des patients et abonnements.',
+      image: '/doctors-appointment-platform.jpg',
+      tags: [
+        'Next.js',
+        'React',
+        'Tailwind CSS',
+        'ShadCN UI',
+        'Prisma',
+        'Neon',
+        'Clerk',
+        'Vonage',
+      ],
+      liveUrl: 'https://doctors-appointment-platform-lz3ety61j.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/Doctors-Appointment-Platform-',
+    },
+    {
+      title: 'pixel-ai-photo-editor',
+      description:
+        'Éditeur d’images basé sur l’IA avec outils de retouche avancés, autosave et animations UI.',
+      image: '/ai-photo.jpg',
+      tags: [
+        'Next.js',
+        'React',
+        'Tailwind CSS',
+        'ShadCN UI',
+        'Convex',
+        'Clerk',
+        'ImageKit',
+        'Fabric.js',
+      ],
+      liveUrl: 'https://ai-photo-editor-sigma.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/AI-Photo-Editor',
+    },
+    {
+      title: 'ai-resume-builder',
+      description:
+        'Application web complète pour créer, gérer et partager des CV avec intégration AI, export PDF et thèmes clair/sombre.',
+      image: '/cvbuild.jpg',
+      tags: [
+        'Next.js',
+        'React',
+        'Tailwind CSS',
+        'ShadCN UI',
+        'Hono.js',
+        'Drizzle ORM',
+        'Kinde Auth',
+        'Gemini AI',
+        'jsPDF',
+      ],
+      liveUrl: 'https://cvbuild-ai.vercel.app/',
+      githubUrl: 'https://github.com/wassim-dV/Ai-Resume-project',
+    },
   ]
 
   // 👇 عدد المشاريع المعروضة (يبدأ بـ 4)
