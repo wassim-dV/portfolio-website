@@ -88,7 +88,7 @@ export default function Projects() {
       title: 'full-stack-ai-voice-interview',
       description:
         'Application web full-stack de simulation d’entretiens vocaux IA en temps réel avec génération de questions et interaction vocale.',
-      image: '/interveiw.jpg',
+      image: '/interveiw.JPG',
       tags: [
         'Next.js',
         'Tailwind CSS',
@@ -105,7 +105,7 @@ export default function Projects() {
       title: 'enterprise-ai-ats',
       description:
         'Application web full-stack pour l’analyse intelligente de CV et le suivi de candidatures avec scoring ATS et feedback personnalisé.',
-      image: '/ats project.jpg',
+      image: '/ats project.JPG',
       tags: ['React', 'React Router', 'Tailwind CSS', 'Puter AI', 'Zustand'],
       liveUrl: 'https://applicant-tracking-system-lj4dz30pg.vercel.app/',
       githubUrl: 'https://github.com/wassim-dV/Applicant-Tracking-System',
@@ -114,7 +114,7 @@ export default function Projects() {
       title: 'meedmeet-doctors-platform',
       description:
         'Plateforme complète de prise de rendez-vous médicaux avec appels vidéo, gestion des patients et abonnements.',
-      image: '/doctors-appointment-platform.jpg',
+      image: '/doctors-appointment-platform.JPG',
       tags: [
         'Next.js',
         'React',
@@ -132,7 +132,7 @@ export default function Projects() {
       title: 'pixel-ai-photo-editor',
       description:
         'Éditeur d’images basé sur l’IA avec outils de retouche avancés, autosave et animations UI.',
-      image: '/ai-photo.jpg',
+      image: '/ai-photo.JPG',
       tags: [
         'Next.js',
         'React',
@@ -150,7 +150,7 @@ export default function Projects() {
       title: 'ai-resume-builder',
       description:
         'Application web complète pour créer, gérer et partager des CV avec intégration AI, export PDF et thèmes clair/sombre.',
-      image: '/cvbuild.jpg',
+      image: '/cvbuild.JPG',
       tags: [
         'Next.js',
         'React',
