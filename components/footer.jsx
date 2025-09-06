@@ -135,7 +135,7 @@ export default function Footer() {
                 </span>
                 <a
                   href="mailto:Essam@example.com"
-                  className="text-gray-400 hover:text-white transition-colors"
+                  className="text-gray-400 hover:text-white transition-colors text-sm"
                 >
                 Mohammedwassim.slimani@gmail.com
                 </a>
@@ -182,8 +182,8 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm mb-4 md:mb-0">
+        <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col md:flex-row text-center justify-between ">
+          <p className="text-gray-400 text-sm mb-4 md:mb-0 text-center">
             © {new Date().getFullYear()}. All rights reserved.
           </p>
 

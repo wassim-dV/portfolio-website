@@ -37,17 +37,20 @@ export default function About() {
               About Me
             </h2>
             <h3 className='text-3xl md:text-4xl font-bold mb-6'>
-              Frontend Developer with a passion for creating beautiful user
-              experiences
+             Full-Stack Web Developer passionate about building performant and user-friendly applications
             </h3>
             <div className='w-20 h-1 bg-purple-500 mx-auto'></div>
           </div>
 
           <p className='text-gray-300 mb-8 text-lg leading-relaxed text-center'>
-            I specialize in building responsive, accessible, and performant web
-            applications using modern technologies. With a keen eye for design
-            and a commitment to code quality, I create solutions that are both
-            beautiful and functional.
+            I specialize in developing full-stack, scalable, 
+            and high-performance web applications using modern technologies such as React,
+            Next.js, Node.js, Express.js, NestJS, and TypeScript.
+            With a strong foundation in frontend design (UI/UX) and backend architecture,
+            I build solutions that are responsive, accessible, and optimized for performance.
+            My experience extends to databases, cloud deployment, and networking,
+            allowing me to deliver products that are not only functional and user-friendly,
+             but also robust, secure, and future-ready.
           </p>
 
           <div className='grid grid-cols-1 sm:grid-cols-2 gap-6 mb-10 max-w-xl mx-auto'>

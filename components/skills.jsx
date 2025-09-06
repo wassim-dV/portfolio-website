@@ -13,6 +13,7 @@ import {
   SiFirebase,
   SiFramer,
   SiSass,
+  SiNodedotjs, SiExpress, SiNestjs, SiTypescript
 } from "react-icons/si"
 import { TbBrandReactNative } from "react-icons/tb"
 import { MdDesignServices } from "react-icons/md"
@@ -52,8 +53,12 @@ export default function Skills() {
     { name: "React", icon: <FaReact className="text-[#61DAFB]" size={36} /> },
     { name: "Next.js", icon: <SiNextdotjs size={36} /> },
     { name: "Tailwind CSS", icon: <SiTailwindcss className="text-[#06B6D4]" size={36} /> },
-    { name: "WordPress", icon: <FaWordpress className="text-[#3178C6]" size={36} /> },
-    { name: "UI/UX Design", icon: <MdDesignServices className="text-purple-500" size={36} /> },
+    
+
+    { name: "Node.js", icon: <SiNodedotjs className="text-[#339933]" size={36} /> },
+{ name: "Express.js", icon: <SiExpress className="text-gray-500" size={36} /> },
+{ name: "Nest.js", icon: <SiNestjs className="text-[#E0234E]" size={36} /> },
+{ name: "TypeScript", icon: <SiTypescript className="text-[#3178C6]" size={36} /> },
   ]
 
   const technologies = [
@@ -61,13 +66,13 @@ export default function Skills() {
     { name: "GitHub", icon: <FaGithub size={24} /> },
     { name: "Figma", icon: <FaFigma className="text-[#F24E1E]" size={24} /> },
     // { name: "React Native", icon: <TbBrandReactNative className="text-[#61DAFB]" size={24} /> },
-    // { name: "GraphQL", icon: <SiGraphql className="text-[#E10098]" size={24} /> },
+    { name: "GraphQL", icon: <SiGraphql className="text-[#E10098]" size={24} /> },
     { name: "Redux", icon: <SiRedux className="text-[#764ABC]" size={24} /> },
     // { name: "Jest", icon: <SiJest className="text-[#C21325]" size={24} /> },
     { name: "Webpack", icon: <SiWebpack className="text-[#8DD6F9]" size={24} /> },
     { name: "npm", icon: <FaNpm className="text-[#CB3837]" size={24} /> },
     { name: "Vercel", icon: <SiVercel size={24} /> },
-    // { name: "Firebase", icon: <SiFirebase className="text-[#FFCA28]" size={24} /> },
+     { name: "Firebase", icon: <SiFirebase className="text-[#FFCA28]" size={24} /> },
     // { name: "Framer", icon: <SiFramer size={24} /> },
     { name: "SASS/SCSS", icon: <SiSass className="text-[#CC6699]" size={24} /> },
   ]

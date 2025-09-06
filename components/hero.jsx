@@ -18,10 +18,10 @@ export default function Hero() {
     if (!textElement) return;
 
     const roles = [
-      "Frontend Developer",
+      "Full-Stack Web Developer",
       "Next.js Expert",
       "React.js  Specialist",
-      "Tailwind CSS Expert",
+      "Node js Expert",
       
     ];
     let roleIndex = 0;
