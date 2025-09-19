@@ -85,6 +85,25 @@ export default function Projects() {
       githubUrl: 'https://github.com/wassim-dV/stockweb-main',
     },
     {
+      title: 'shopcartyt',
+      description:
+        'A complete e-commerce web application with shopping cart, product management, user authentication, and online payment integration. Built with a modern responsive UI for a seamless shopping experience.',
+      image: '/e-commerce.JPG',
+      tags: [
+        'React',
+        'Node.js',
+        'Express.js',
+        'MongoDB',
+        'Tailwind CSS',
+        'Stripe API',
+        'JWT Authentication',
+        'Docker',
+      ],
+      liveUrl: 'https://shopcart.reactbd.com/', // replace with your live demo link
+      githubUrl: 'https://github.com/wassim-dV/E-commerce-app-shopcartyt-', // your GitHub repo link
+    },
+
+    {
       title: 'full-stack-ai-voice-interview',
       description:
         'Application web full-stack de simulation d’entretiens vocaux IA en temps réel avec génération de questions et interaction vocale.',
