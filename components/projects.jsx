@@ -38,14 +38,24 @@ export default function Projects() {
       githubUrl: 'https://github.com/wassim-dV/HotelBooking--TailwindCSS',
     },
     {
-      title: 'Leading page -Bank-',
+      title: 'orebishopping-yt',
       description:
-        'A personal portfolio website showcasing projects, skills, and contact information with a modern design.',
-      image: '/bank.JPG',
-      tags: ['React', 'Framer Motion', 'Tailwind CSS'],
-      liveUrl: 'https://hoo-bank-ten-self.vercel.app/',
-      githubUrl: 'https://github.com/wassim-dV/HooBank',
+        'A modern and responsive e-commerce web application with product listings, shopping cart, authentication, and payment integration. Built using React, Node.js, and MongoDB with a clean UI design.',
+      image: '/e-commerce2.JPG',
+      tags: [
+        'React',
+        'Node.js',
+        'Express.js',
+        'MongoDB',
+        'Tailwind CSS',
+        'Stripe API',
+        'JWT Authentication',
+      ],
+      liveUrl: 'https://orebiclient.reactbd.com/', // إذا عندك رابط demo مباشر ضيفه هنا
+      githubUrl:
+        'https://github.com/wassim-dV/E-commerce-app-/tree/main/Desktop/orebishopping-yt-main',
     },
+
     // 👇 مشاريع إضافية
     {
       title: 'modern-business-landing-page-react-tailwindcss ',
